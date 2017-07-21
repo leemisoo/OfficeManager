@@ -1,0 +1,14 @@
+ApplicationName|Version|Release date|downloadUrl|FileName
+officeManager|1.003|10/13/2016|http://www.edupool.xyz/gnuboard4/officeManager/updateImage/|officeManagerImage.zip
+
+== 2016-06-09 : 메뉴 폰트 변경
+  - 수정 모듈 : officeManager -> officeMain.cs
+
+== 2016-06-08 : 프로젝트 실행 안되는 부분 수정
+  - 수정 모듈 : officeAppStart -> Form1.cs
+
+== 2016-10-13 : web site url 변경
+  - 수정 모듈 : officeManager -> officeMain.cs
+
+== 2016-11-17 : 최종 업데이트
+  - 수정 모듈 : ...

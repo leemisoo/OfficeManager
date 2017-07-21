@@ -1,0 +1,9 @@
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\bin\Debug\officeAppUpdate.exe
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\bin\Debug\officeAppUpdate.pdb
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.officeAppUpdate.resources
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.Properties.Resources.resources
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.updateInfo.resources
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.csproj.GenerateResource.Cache
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.exe
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.pdb
+C:\Users\djlee\documents\visual studio 2010\Projects\officeManager\officeAppUpdate\obj\x86\Debug\officeAppUpdate.csprojResolveAssemblyReference.cache
